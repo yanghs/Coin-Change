@@ -8,6 +8,8 @@ Suppose we need to make three transactions for 25 cents, one dollar, and ten dol
 
 # Language: python 3.0
 
+# Format: ipython notebook
+
 # Approach: 
 1. Numerical approach is used to solve the mean and standard deviation of the change in the transaction of 25 cents.
 2. Monte Carlo method is used to save computation time and to approximate the answers to the question.
